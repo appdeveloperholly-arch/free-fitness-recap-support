@@ -1,2 +1,2 @@
-# free-fitness-recap-support
-Support page for Free Fitness Recap app
+# fitness-recap-support
+Support page for Fitness Recap app
